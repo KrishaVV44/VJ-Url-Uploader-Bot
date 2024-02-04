@@ -51,7 +51,7 @@ class Config(object):
     TECH_VJ_SESSION_NAME = "VJ-URL-UPLOADER-BOT"
     
     # database uri (mongodb)
-    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://deepakkumar61590:aROwo4Y2vRRdtyCs@cluster0.vkgbl6b.mongodb.net/?retryWrites=true&w=majority")
+    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://dopplershift79:RdPVPD7OrQmcvy6C@cluster0.69w2qyz.mongodb.net/?retryWrites=true&w=majority")
     TECH_VJ_MAX_RESULTS = "50"
 
     # channel information
